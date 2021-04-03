@@ -6,7 +6,7 @@ I'm from Turkey. I'm a Junior Full Stack Developer. I love learning something an
 
 Skills: ANGULAR / C#/ JS / HTML / CSS / SQL / KOTLIN
 
--I’m currently working on [RentACar|Front-End](https://github.com/mfbilgin42/rent-a-car-project-front-end) and [RentACar|Back-End](https://github.com/mfbilgin42/RentACarProject)
+-I’m currently working on [RentACar | Front-End](https://github.com/mfbilgin42/rent-a-car-project-front-end) and [RentACar | Back-End](https://github.com/mfbilgin42/RentACarProject)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mfbilgin42)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammet-fethullah-1694611b1/)
