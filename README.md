@@ -4,7 +4,7 @@
 
 I'm from Turkey. I'm a Junior Full Stack Developer.
 Skills: ANGULAR  <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"></img> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img> <img src="https://img.shields.io/badge/.NETCore-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> </img> CSS / 
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img><img src="https://img.shields.io/badge/Kotlin-0A3FA8?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"><img src="https://img.shields.io/badge/HTml-FF9933?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img> <img src="https://img.shields.io/badge/HTml-FF9933?style=for-the-badge&logo=HTML5&logoColor=white">
 
 -I’m currently working on [RentACar | Front-End](https://github.com/mfbilgin42/rent-a-car-project-front-end) and [RentACar | Back-End](https://github.com/mfbilgin42/RentACarProject)
 
