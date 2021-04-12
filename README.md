@@ -14,4 +14,7 @@ Skills :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfbilgin42)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mfbilgin42&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/mfbilgin42)    
+![Profile views](https://gpvc.arturio.dev/mfbilgin42)   
+[![GitHub followers](https://img.shields.io/github/followers/mfbilgin42?style=social)](https://github.com/mfbilgin42?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/mfbilgin42?style=social)
+
