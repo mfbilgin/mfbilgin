@@ -12,7 +12,6 @@ I'm from Turkey. I'm a Junior Full Stack Developer.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammet-fethullah-1694611b1/)
 
-[<img src='https://www.google.com.tr/search?q=gmail&client=ms-opera-mobile&channel=new&espv=1&prmd=nvi&sxsrf=ALeKk02IFCKkRsgyqlhQJgBTef9aL1xZng:1618784334048&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiQkMvJ6YjwAhXJ8qQKHQBjCtIQ_AUoA3oECAQQAw&biw=602&bih=964#' alt='gmail' >](mf.bilgin0@gmail.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mfbilgin42&show_icons=true)  
 
