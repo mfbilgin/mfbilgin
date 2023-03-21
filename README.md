@@ -1,6 +1,11 @@
 ### Hi there, my name is Muhammet
-#### Developer
-![Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYt4k-ZIbakIlAb2KumaLY0ZJZ42XmvyFHg&usqp=CAU)
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mfbilgin&langs_count=6&hide=TSQL,PLpgSQL,HTML,Powershell&theme=yeblu&layout=compact&show_icons=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mfbilgin&show_icons=true&theme=yeblu&line_height=30&hide=prs,contribs"> 
+ 
+</p>
 
 I'm from Turkey. I'm a Junior Back-end & Front-end Developer.
 
